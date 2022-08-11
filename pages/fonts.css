@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('../../russian-travel/inter/Inter-Bold.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('../../russian-travel/inter/Inter-Regular.woff2') format('woff2');
+  font-style: normal;
+
+  font-weight:400;
+}

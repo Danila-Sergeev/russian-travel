@@ -1,0 +1,10 @@
+.page__header{
+  margin: 28px auto 56px auto;
+  max-height: 52px;
+  max-width: 1184px;
+  display: flex;;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFFFFF;
+
+}
