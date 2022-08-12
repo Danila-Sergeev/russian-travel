@@ -1,0 +1,5 @@
+.place__fst-column{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}

@@ -1,0 +1,7 @@
+.place__website{
+  margin: 0;
+  min-width: 456px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
