@@ -2,4 +2,24 @@
   margin: auto;
   display: block;
   max-width: 984px;
+  padding-left:48px ;
+  padding-right:48px ;
+  position: relative
 }
+
+/* @media screen and (max-width: 1024px) {
+  .page__lead{
+    padding-left:48px ;
+    padding-right:48px ;
+  }
+}
+*/
+
+/* @media screen and (max-width: 768px) {
+  .page__lead{
+    min-height: 862px;
+  }
+}
+ */
+
+

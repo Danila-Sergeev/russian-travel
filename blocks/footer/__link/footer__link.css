@@ -11,4 +11,9 @@
 .footer__link:hover{
   color: #FFFFFF;
   opacity: 0.8;
+  transition: .5s;
+}
+
+.footer__link:not(hover){
+  transition: .5s;
 }

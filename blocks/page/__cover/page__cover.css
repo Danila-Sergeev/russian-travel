@@ -1,12 +1,35 @@
-.page__cover {
-  background-image: url(../../../images/cover-trains.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-  min-width: 1184px;
-  min-height: 740px;
+.page__cover{
+  max-width: 80rem;
+  max-height: 720px;
+  border: 1px;
+  background-image: url(../../../../russian-travel/images/cover-trains.jpg);
+  background-position: 100% 100%;
+  background-size:cover;
+  border: 1px solid #2A2C2F;
+  word-wrap: break-word;
   position: relative;
   z-index: 0;
 }
 
+@media screen and (max-width: 1024px) {
+  .page__cover{
+    width: 100vw;
+    margin-left: -50px;
+  }
+}
 
+
+@media screen and (max-width: 768px) {
+  .page__cover{
+    width: 100vw;
+    margin-left: -26px;
+  }
+}
+
+
+@media screen and (max-width: 320px) {
+  .page__cover{
+    width: 100vw;
+    margin-left: -18px;
+  }
+}
