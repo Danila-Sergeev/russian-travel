@@ -4,8 +4,17 @@
   line-height: 28px;
   cursor: pointer;
   font-style: normal;
+  margin-top: 18px;
+  margin-bottom: 6px;
 }
 
 .header__lang-link:hover{
   text-decoration: underline;
 }
+
+/* @media screen and (max-width: 320px) {
+  .header__lang-link{
+    margin-top: 14px;
+    margin-bottom: 8px;
+  }
+} */
