@@ -7,6 +7,15 @@
   padding-top: 92px;
 }
 
+@media screen  and (max-width: 717px){
+  .page__footer{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 310px;
+  }
+}
+
 @media screen  and (max-width: 320px){
   .page__footer{
     display: flex;
@@ -15,3 +24,5 @@
     height: 310px;
   }
 }
+
+
