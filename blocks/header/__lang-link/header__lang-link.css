@@ -1,10 +1,9 @@
-.header__lang-link-ru{
+.header__lang-link{
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
   cursor: pointer;
   font-style: normal;
   margin-top: 18px;
-  text-decoration: underline;
   margin-bottom: 6px;
 }
