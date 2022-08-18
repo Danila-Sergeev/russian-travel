@@ -1,5 +1,5 @@
 .page__cover{
-  background-image: url(../../../../russian-travel/images/cover-trains.jpg);
+  background-image: url(../../../images/cover-trains.jpg);
   z-index: 0;
   position: relative;
   display: flex;
