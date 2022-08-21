@@ -5,16 +5,3 @@
 }
 
 
-@media screen and (max-width: 768px){
-  .lead__img{
-    width:100vw;
-    margin-left: -24px;
-  }
-}
-
-@media screen and (max-width: 320px){
-  .lead__img{
-    width:100vw;
-    margin-left: -16px;
-  }
-}
