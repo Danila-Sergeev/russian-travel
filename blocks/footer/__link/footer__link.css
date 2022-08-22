@@ -23,14 +23,16 @@
 
 @media screen  and (max-width: 717px){
   .footer__link{
-    padding-right: 150px;
     font-size: 24px;
     line-height: 24px;
+    margin-bottom: 32px;
+  }
+  .footer__link:last-of-type{
+    margin-bottom: 48px;
   }
 }
 @media screen  and (max-width: 350px){
   .footer__link{
-    padding-right: 100px;
     font-size: 24px;
     line-height: 24px;
   }
