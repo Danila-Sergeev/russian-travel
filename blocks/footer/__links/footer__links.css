@@ -3,7 +3,6 @@
 }
 @media screen  and (max-width: 717px){
   .footer__links{
-    display: flex;
     flex-direction: column;
     justify-content: space-between;
   }

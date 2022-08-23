@@ -9,27 +9,22 @@
   margin: 0;
   z-index: 3;
   text-decoration: none;
-  max-width: 560px;
 }
 
 
 @media screen  and (max-width: 650px){
   .cover__title{
-    font-size: 50px;
+    font-size: 45px;
     line-height: 1em;
-  }
-}
-@media screen  and (max-width: 490px){
-  .cover__title{
-    font-size: 35px;
-    line-height: 1em;
+    max-width: 350px;
   }
 }
 
-@media screen  and (max-width: 320px){
+
+@media screen  and (max-width: 400px){
   .cover__title{
     font-size: 32px;
-    max-width: 288px;
+    max-width: 250px;
   }
 }
 
