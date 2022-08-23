@@ -37,7 +37,7 @@
 
 @media screen and (max-width: 900px) {
   .cover__overlay{
-    height: calc(460px + 1vmin);
+    height: calc(471px + 1vmin);
   }
 }
 
